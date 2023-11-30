@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Nehapatil9096.github.io/Poket_Notes_4",
+  "homepage": "https://Nehapatil9096.github.io/my-react-app",
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
@@ -7,10 +7,17 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ansi-html": "^0.0.8",
+    "browserslist": "^4.0.0",
+    "glob-parent": "^5.1.2",
+    "immer": "^9.0.5",
+    "jsdom": "^16.5.3",
+    "loader-utils": "^1.4.1",
+    "minimatch": "^3.0.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-modal": "^3.16.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
